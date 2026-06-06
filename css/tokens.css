@@ -1,0 +1,43 @@
+:root {
+  --font-display: "Bodoni Moda", ui-serif, "Georgia", serif;
+  --font-body: "Archivo", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --c-ink: hsl(160 18% 10%);
+  --c-ink-2: hsl(160 14% 18%);
+  --c-forest-1: hsl(154 40% 12%);
+  --c-forest-2: hsl(154 35% 18%);
+  --c-sage-1: hsl(125 18% 72%);
+  --c-sage-2: hsl(125 14% 62%);
+  --c-stone-1: hsl(38 24% 86%);
+  --c-stone-2: hsl(34 18% 74%);
+  --c-offwhite: hsl(40 20% 97%);
+  --c-white: hsl(0 0% 100%);
+  --c-bronze: hsl(28 30% 52%);
+
+  --radius-s: 12px;
+  --radius-m: 18px;
+  --radius-l: 28px;
+  --radius-xl: 44px;
+
+  --shadow-1: 0 12px 40px hsl(160 25% 8% / 0.12);
+  --shadow-2: 0 20px 80px hsl(160 25% 8% / 0.16);
+
+  --stroke-1: hsl(155 20% 16% / 0.10);
+  --stroke-2: hsl(155 22% 14% / 0.18);
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-inout: cubic-bezier(0.83, 0, 0.17, 1);
+
+  --space-1: 6px;
+  --space-2: 10px;
+  --space-3: 14px;
+  --space-4: 18px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 44px;
+  --space-8: 64px;
+  --space-9: 92px;
+  --space-10: 132px;
+
+  --container: 1160px;
+}
